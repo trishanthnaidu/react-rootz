@@ -1,0 +1,47 @@
+{
+  "author": {
+    "name": "Trishanth Naidu"
+  },
+  "bugs": {
+    "url": "https://github.com/trishanthnaidu/rootsjs/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "rootz": "^0.2.5"
+  },
+  "deprecated": false,
+  "description": "Official React bindings for Rootz",
+  "files": [
+    "react-rootz.js"
+  ],
+  "homepage": "https://github.com/trishanthnaidu/rootsjs#readme",
+  "keywords": [
+    "react-rootz",
+    "react",
+    "rootz",
+    "state",
+    "application state",
+    "roots",
+    "root",
+    "state management",
+    "store",
+    "pool",
+    "predictable",
+    "functional",
+    "immutable",
+    "hot",
+    "live",
+    "replay"
+  ],
+  "license": "ISC",
+  "main": "react-rootz.js",
+  "name": "react-rootz",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trishanthnaidu/rootsjs.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.4"
+}
